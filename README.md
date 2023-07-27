@@ -1,4 +1,3 @@
-Ey there. im misterme8648. I just know some python3, working on a couple projects.
-
+Ey there. im misterme8648. I just know some pintermediate python3, learning CPP.
 Contact:
-you-man#4722, discord
+theyouman, discord
